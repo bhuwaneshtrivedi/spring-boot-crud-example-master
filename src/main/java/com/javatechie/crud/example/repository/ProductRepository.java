@@ -17,7 +17,8 @@ public class ProductRepository {
         list = List.of(
                 new Product(1, "product 1", 10,1000.00),
                 new Product(2, "product 2", 20, 2000),
-                new Product(3, "product 3", 30, 3000)
+                new Product(3, "product 3", 30, 3000),
+                new Product(4, "product 4", 40, 4000)
         );
     }
 
